@@ -14,7 +14,7 @@ multispectral imagery and Random Forest classification.
 
 ### Methodology
 1. Data loading and exploration
-2. Feature engineering — NDVI, NDWI, NDBI, SAVI, BSI indices
+2. Feature engineering : NDVI, NDWI, NDBI, SAVI, BSI indices
 3. Random Forest classification with 5-fold cross-validation
 4. Prediction on entire area of interest
 5. Evaluation using normalized confusion matrix
@@ -37,10 +37,10 @@ OATH/
 
 ### SQL Queries (Project 2)
 The `Query.sql` file contains 4 queries ready to run against the provided database:
-- **Query 1** — Total number of rows in accounts table
-- **Query 2** — Total dollar amount of sales from orders table
-- **Query 3** — Earliest order date from orders table
-- **Query 4** — Account names joined with their order dates
+- **Query 1** : Total number of rows in accounts table
+- **Query 2** :Total dollar amount of sales from orders table
+- **Query 3** : Earliest order date from orders table
+- **Query 4** : Account names joined with their order dates
 
 Note: I failed to get the queries output because The provided SQL file uses PostgreSQL syntax which is incompatible 
 with MySQL but you can run it on your end to see the output. 
