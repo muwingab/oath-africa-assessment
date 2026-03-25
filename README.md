@@ -43,4 +43,4 @@ The `Query.sql` file contains 4 queries ready to run against the provided databa
 - **Query 4** — Account names joined with their order dates
 
 Note: I failed to get the queries output because The provided SQL file uses PostgreSQL syntax which is incompatible 
-with MySQL. 
+with MySQL but you can run it on your end to see the output. 
