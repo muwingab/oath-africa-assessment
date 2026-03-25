@@ -1,0 +1,16 @@
+# Large raster files
+*.tif
+*.TIF
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Environment
+conda-env/
+.env
+
+# System
+.DS_Store
+Thumbs.db
